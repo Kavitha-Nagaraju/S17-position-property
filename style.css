@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Zain:wght@200;300;400;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Lakki+Reddy&family=Zain:wght@200;300;400;700;800;900&display=swap');
+@font-face {
+    font-family:golden ;
+    src: url(./images/GoldenbeachpersonaluseBdit-jEgDM.otf);
+}
+body{
+    background-color: chartreuse;
+}
+#cloud1{
+    height:300px;
+    width:500px;
+    position:relative;
+    bottom:800px;
+    right:30px;
+    z-index:26;
+}
+#cl{
+    height:300px;
+    width:500px;
+    position:relative;
+    bottom:800px;
+    left:120px;
+   
+    z-index:26;
+}
+#mountain{
+    position: relative;
+    width:1500px;
+    height:700px;
+    bottom:800px;
+    z-index:20;
+}
+#house{
+    width:500px;
+    height:400px;
+    position:relative;
+    left:1000px;
+    bottom:1400px;
+    z-index:40;
+}
+#sun{
+    width:1500px;
+    position: relative;
+    z-index:10;
+}
+#aeroplan{
+    position: relative;
+    bottom:2000px;
+    z-index:50;
+}
+#birds{
+    position:relative;
+    bottom:2000px;
+    z-index:52;
+    left:150px;
+}
+#google{
+    position:fixed;
+    height:100px;
+    width:200px;
+    object-fit: cover;
+    z-index: 52;
+    right:0px;
+    
+}
+#h1{
+    background-color:red ;
+    height:50px;
+    width:1500px;
+    border:10px solid yellow;
+    border-radius: 20px;;
+    position:sticky;
+    top:0px;
+    text-align: center;
+}
+
+#p1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#p2{
+    font-family:golden;
+}
+#p3{
+    font-family:"Kalnia Glaze", serif;
+}
+#p4{
+    font-family: "Lakki Reddy", serif;
+}
